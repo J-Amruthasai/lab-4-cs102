@@ -18,7 +18,7 @@
   }
 
   .row{
-    background-image:url('back image-search2.jfif');
+    background-image: url('background image row1.webp');
     background-size: 100%;
 
   }
@@ -32,7 +32,7 @@
   }
 
   .figure {
-    color: #3f829d;
+    color: #11495f;
     text-align: center;
     font-size: 36px;
     font-style: oblique;
@@ -109,8 +109,8 @@
       display: flex;
       flex-wrap: wrap;
       padding: 10px;
-      background-image:url('bts background.webp');
-      background-size: 100%;
+      background-image:url('bts back2.jpg');
+      background-size: 25%;
 
     }
 
@@ -223,5 +223,36 @@
       padding: 10px;
       width: 30%;
     }
+    ul{
+      list-style-type:none;
+      margin:0 auto;
+      padding:0;
+      overflow:hidden;
+      background-color:white;
+      display: table;
+      
+  
+    }
+  li{
+    float:left;
+  
+  }
+  li a {
+    display:block;
+    color:orange;
+    text-align:center;
+    padding:16px;
+    text-decoration:none;
+   
+  }
+  li a:hover{
+    background-color:black ;
+  
+  }
+
+  .color{
+    background-image:url('https://www.dreamstime.com/photos-images/beautiful-background.html');
+    background-size:100%;
+  }
 
 
